@@ -2573,6 +2573,12 @@ input, select, textarea {
 			display: block;
 		}
 
+		img.animated-gif{
+			width: 70px;
+			height: auto;
+			text-align: center;
+		  }
+
 		.image.left, .image.right {
 			max-width: 40%;
 		}
